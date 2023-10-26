@@ -40,11 +40,4 @@ I have used React, Chakra, JS, Html, Css to made this project.
 ![WhatsApp Image 2023-02-27 at 11 52 33 AM](https://user-images.githubusercontent.com/100137935/221491278-a84741f8-39f1-4335-ab16-f09bf9460e98.jpeg)
 
 <hr>
-
-# Collaborators (Team members):-
-- Devendra Singh(Team Lead)
-- Prince Sharma
-- Ravi Kumar 
-- Ruchi Priya Kumari
-
 - ## <span style="color:green"> Thank You </span>
